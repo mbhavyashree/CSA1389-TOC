@@ -1,0 +1,17 @@
+Automaton Simulator, v1.0
+turing {
+	alphabet {abcd*_}
+	state {
+		initial {yes}
+		coord {511 302}
+	}
+	state {
+		coord {782 303}
+	}
+	state {
+		coord {1063 300}
+	}
+	state {
+		coord {1351 303}
+	}
+}
